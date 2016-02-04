@@ -1,0 +1,303 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "pcr",
+		"selected_items":
+		[
+			[
+				"pcr",
+				"Package Control: Remove Package"
+			],
+			[
+				"git",
+				"Git: Commit history"
+			],
+			[
+				"git ",
+				"Git: Init"
+			],
+			[
+				"pi",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"rm",
+				"Package Control: Remove Package"
+			],
+			[
+				"encode",
+				"HTML: Encode Special Characters"
+			],
+			[
+				"syntaphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				" ",
+				"About"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 223.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/workspace/rb/web.config",
+		"/C/workspace/rb/_update.php",
+		"/C/workspace/rb/test.html",
+		"/C/workspace/rb/index.php",
+		"/C/workspace/rb/modules/admin/_setting/db.schema.php",
+		"/C/workspace/rb/modules/admin/action/a.admin_member_add.php",
+		"/C/BigGateTR.log",
+		"/C/workspace/rb/modules/admin/main.php",
+		"/C/workspace/rb/_var/switch.var.php",
+		"/C/workspace/rb/_core/function/sys.func.php",
+		"/C/workspace/rb/switches/start/filterip/main.php",
+		"/C/workspace/rb/_var/db.info.php",
+		"/C/workspace/rb/_var/install.txt",
+		"/C/workspace/rb/.htaccess",
+		"/C/Windows/System32/drivers/etc/hosts",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/AdvancedNewFile/Default (Windows).sublime-keymap",
+		"/C/workspace/etc/compr/public_html/Libs/_php/rankup_banner.class.php",
+		"/C/Users/admin/Desktop/test.html",
+		"/C/workspace/etc/compr/public_html/Libs/_php/rankup_control.class.php",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Alignment/Default (Windows).sublime-keymap",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/bh_core.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+		"/C/workspace/renewal_hacademia/after_class_box_sub.php",
+		"/C/workspace/etc/compr/public_html/Libs/_php/rankup_basic.class.php",
+		"/C/workspace/rb/modules/admin/action/a.admin_member_add_check.php",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Alignment/Base File.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_core.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/BracketHighlighter/bh_wrapping.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"/C/workspace/rb/LICENSE-DEFAULT",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Default (Windows).sublime-keymap",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/admin/Downloads/Sublime Text 3 Build 3065 Serial Key.html",
+		"/C/Users/admin/AppData/Roaming/Sublime Text 3/Packages/TortoiseSVN/TortoiseSVN.sublime-settings",
+		"/C/workspace/core/sftp-config.json",
+		"/C/workspace/index.php",
+		"/C/workspace/ci/sftp-config.json",
+		"/C/workspace/sftp-config.json",
+		"/C/workspace/user_guide/changelog.html",
+		"/C/workspace/application/config/mimes.php",
+		"/C/workspace/application/config/hooks.php",
+		"/C/workspace/_cron/dump.sql",
+		"/C/workspace/_cron/dump.tar.gz",
+		"/C/workspace/application/config/doctypes.php",
+		"/C/workspace/application/config/foreign_chars.php",
+		"/C/workspace/application/config/profiler.php",
+		"/C/workspace/application/config/smileys.php",
+		"/C/workspace/test/index.html"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"adminpage",
+			"s_adminpage",
+			"s_point",
+			"point",
+			"s_paper",
+			"s_online",
+			"s_page  ",
+			"s_menu",
+			"rb_s_menu",
+			"'];\n",
+			"_install",
+			"register_globals",
+			"_tmp",
+			"ini_get",
+			"ini",
+			"index.php",
+			"a.update.php",
+			"install",
+			"<br>",
+			"lic"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 29.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 154.0
+	},
+	"pinned_build_system": "",
+	"project": "_update.sublime-project",
+	"replace":
+	{
+		"height": 54.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.php",
+				"index.php"
+			],
+			[
+				"a.admin_member_add.php",
+				"modules\\admin\\action\\a.admin_member_add.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
